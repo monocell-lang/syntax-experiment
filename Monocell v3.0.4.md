@@ -50,72 +50,30 @@ Mascot:               slime
 Monocell programming language
 By ConFusion
 
-
-```
-```
 cell v0.4.3
 document v3.0.3
 
-```
-```
-
-
-```
-```
 Hint: type "help" for list of commands
-
-```
-```
 ----------------------
 
 ```
-  
 ```
 >> cell help
-
-```
-```
 -------------------------------------
 
-```
-```
 Command              What it does
 
-```
-```
-
-
-```
-```
 version              Show the compiler and 
                      doccument version
 
-```
-```
-
-
-```
-```
 help                 Show list of commands
 
-```
-```
-
-
-```
-```
 document             Create a copy of Monocell 
                      programming language document
 
 init (*)             Initialize a .cell project 
                      configuration file
 
-```
-```
-
-
-```
-```
                      The generated .cell file will 
                      have all common configurations 
                      in the form of comments
@@ -123,27 +81,12 @@ init (*)             Initialize a .cell project
 build (*.cell)       Build the project based on 
                      the .cell file
 
-```
-```
-
-
-```
-```
 search (*)           search for uploaded library
 
-```
-```
-
-
-```
-```
 fetch (*) (dir: *)   download library
 
 Email: monocell.lang@gmail.com
 Github: github.com/monocell-lang/monocell
-
-```
-```
 -------------------------------------
 
 ```
